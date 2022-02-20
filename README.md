@@ -1,5 +1,5 @@
 # HCI
-Heuristic Evaluation report
+Heuristic Evaluation report.
 This assessment includes:
 •	Select an interface from the provided list 
 •	Design three tasks for participants to complete
